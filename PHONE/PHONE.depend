@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698466444 source:c:\users\dhanu\onedrive\desktop\codes\c++\phone\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+
